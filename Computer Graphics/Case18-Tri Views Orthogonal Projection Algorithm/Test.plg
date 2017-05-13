@@ -1,0 +1,105 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Test - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Debug/Test.res" /d "_DEBUG" /d "_AFXDLL" "D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\Test.rc"" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP198.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/Test.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\Face.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\HView.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\Line.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\MainFrm.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\P2.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\P3.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\RGB.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\Test.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\TestDoc.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\TestView.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\Transform .cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\Vector.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\VView.cpp"
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\WView.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP198.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP199.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/Test.pch" /Yc"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"D:\MyBackup\我的文档\Tencent Files\997796978\FileRecv\计算机图形学实践教程第2版源程序\vs6.0\案例18-正三棱柱三视图算法\StdAfx.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP199.tmp" 
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP19A.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/Test.pdb" /debug /machine:I386 /out:"Debug/Test.exe" /pdbtype:sept 
+".\Debug\Face.obj"
+".\Debug\HView.obj"
+".\Debug\Line.obj"
+".\Debug\MainFrm.obj"
+".\Debug\P2.obj"
+".\Debug\P3.obj"
+".\Debug\RGB.obj"
+".\Debug\StdAfx.obj"
+".\Debug\Test.obj"
+".\Debug\TestDoc.obj"
+".\Debug\TestView.obj"
+".\Debug\Transform .obj"
+".\Debug\Vector.obj"
+".\Debug\VView.obj"
+".\Debug\WView.obj"
+".\Debug\Test.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP19A.tmp"
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+StdAfx.cpp
+Compiling...
+Face.cpp
+HView.cpp
+Line.cpp
+MainFrm.cpp
+P2.cpp
+P3.cpp
+RGB.cpp
+Test.cpp
+TestDoc.cpp
+TestView.cpp
+Transform .cpp
+Vector.cpp
+VView.cpp
+WView.cpp
+Generating Code...
+Linking...
+Creating temporary file "C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP19C.tmp" with contents
+[
+/nologo /o"Debug/Test.bsc" 
+".\Debug\StdAfx.sbr"
+".\Debug\Face.sbr"
+".\Debug\HView.sbr"
+".\Debug\Line.sbr"
+".\Debug\MainFrm.sbr"
+".\Debug\P2.sbr"
+".\Debug\P3.sbr"
+".\Debug\RGB.sbr"
+".\Debug\Test.sbr"
+".\Debug\TestDoc.sbr"
+".\Debug\TestView.sbr"
+".\Debug\Transform .sbr"
+".\Debug\Vector.sbr"
+".\Debug\VView.sbr"
+".\Debug\WView.sbr"]
+Creating command line "bscmake.exe @C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\RSP19C.tmp"
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+Test.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
